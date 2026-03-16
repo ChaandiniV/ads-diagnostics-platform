@@ -1,3 +1,7 @@
+![AI Ads Diagnostics Dashboard](images/dashboard.png)
+
+
+
 # AI Ad Campaign Diagnostics & Troubleshooting Platform
 
 An AI-powered platform for diagnosing advertising campaign issues and providing automated troubleshooting suggestions using Retrieval-Augmented Generation (RAG).
