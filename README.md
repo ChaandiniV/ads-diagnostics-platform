@@ -1,4 +1,4 @@
-![AI Ads Diagnostics Dashboard](images/dashboard.png)
+![AI Ads Diagnostics Dashboard](images/Screenshot 2026-03-16 173917.png)
 
 
 
