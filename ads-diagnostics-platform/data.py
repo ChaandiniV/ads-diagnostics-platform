@@ -81,3 +81,4 @@ df.to_csv("campaigns_dataset.csv", index=False)
 
 print("Dataset generated successfully")
 print(df.head())
+print(df.foot())
