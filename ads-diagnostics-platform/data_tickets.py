@@ -43,3 +43,4 @@ df = pd.DataFrame(data)
 df.to_csv("support_tickets.csv", index=False)
 
 print("Support ticket dataset created")
+print("done printing")
